@@ -1,0 +1,5 @@
+{
+	"ImportPath": "github.com/lstoll/roller",
+	"GoVersion": "go1.6",
+	"Deps": []
+}
